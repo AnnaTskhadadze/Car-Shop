@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "model": "Stelvio",
+      "wheel": "right",
+      "manufacturer": "ALFA ROMEO",
+      "price": 3000,
+      "Currency": "$",
+      "src": "https://wallpapersmug.com/large/a2b867/alfa-romeo-giulia-gta-red-car.jpeg"
+    },
+    {
+      "id": 2,
+      "model": "CLS 550",
+      "wheel": "right",
+      "manufacturer": "MERCEDES-BENZ",
+      "price": 1000,
+      "Currency": "$",
+      "src": "https://i1.wp.com/rayhaber.com/wp-content/uploads/2021/11/mercedes-benz-kasim-kampanyalari.jpg?resize=678%2C381&ssl=1"
+    },
+    {
+      "id": 3,
+      "model": "Mazda 3",
+      "wheel": "left",
+      "manufacturer": "MAZDA",
+      "price": 2000,
+      "Currency": "$",
+      "src": "https://static.my.ge/myauto/photos/7/9/8/0/0/large/57008973_3.jpg?v=1"
+    },
+    {
+      "id": 4,
+      "model": "RAV 4",
+      "wheel": "left",
+      "manufacturer": "TOYOTA",
+      "price": 1000,
+      "Currency": "$",
+      "src": "https://toyota-tegeta.ge/storage/3677/conversions/camry-png2-webp.webp"
+    },
+    {
+      "id": 5,
+      "model": "CLS 550",
+      "wheel": "right",
+      "manufacturer": "MERCEDES-BENZ",
+      "price": 4500,
+      "Currency": "$",
+      "src": "https://www.motortrend.com/uploads/2021/10/2022-Mercedes-Benz-EQS-450-5.jpg?fit=around%7C875:492"
+    },
+    {
+      "id": 6,
+      "model": "Stelvio",
+      "wheel": "right",
+      "manufacturer": "ALFA ROMEO",
+      "price": 3700,
+      "Currency": "$",
+      "src": "https://wallpapersmug.com/large/a2b867/alfa-romeo-giulia-gta-red-car.jpeg"
+    },
+    {
+      "id": 7,
+      "model": "RAV 4",
+      "wheel": "left",
+      "manufacturer": "TOYOTA",
+      "price": 2350,
+      "Currency": "$",
+      "src": "https://toyota-tegeta.ge/storage/3677/conversions/camry-png2-webp.webp"
+    },
+    {
+      "id": 8,
+      "model": "Mazda 3",
+      "wheel": "left",
+      "manufacturer": "MAZDA",
+      "price": 2300,
+      "Currency": "$",
+      "src": "https://static.my.ge/myauto/photos/7/9/8/0/0/large/57008973_3.jpg?v=1"
+    },
+    {
+      "id": 9,
+      "model": "CLS 550",
+      "wheel": "right",
+      "manufacturer": "MERCEDES-BENZ",
+      "price": 2300,
+      "Currency": "$",
+      "src": "https://i1.wp.com/rayhaber.com/wp-content/uploads/2021/11/mercedes-benz-kasim-kampanyalari.jpg?resize=678%2C381&ssl=1"
+    },
+    {
+      "id": 10,
+      "model": "Mazda 3",
+      "wheel": "left",
+      "manufacturer": "MAZDA",
+      "price": 2540,
+      "Currency": "$",
+      "src": "https://wallpapersmug.com/large/37da88/mazda-off-road-5k.jpg"
+    },
+    {
+      "id": 11,
+      "model": "Stelvio",
+      "wheel": "right",
+      "manufacturer": "ALFA ROMEO",
+      "price": 3700,
+      "Currency": "$",
+      "src": "https://wallpapersmug.com/large/a2b867/alfa-romeo-giulia-gta-red-car.jpeg"
+    },
+    {
+      "id": 12,
+      "model": "RAV 4",
+      "wheel": "right",
+      "manufacturer": "TOYOTA",
+      "price": 2590,
+      "Currency": "$",
+      "src": "https://toyota-tegeta.ge/storage/3677/conversions/camry-png2-webp.webp"
+    },
+    {
+      "id": 13,
+      "model": "Stelvio",
+      "wheel": "right",
+      "manufacturer": "ALFA ROMEO",
+      "price": 3750,
+      "Currency": "$",
+      "src": "https://wallpapersmug.com/large/a2b867/alfa-romeo-giulia-gta-red-car.jpeg"
+    },
+    {
+      "id": 14,
+      "model": "CLS 550",
+      "wheel": "right",
+      "manufacturer": "MERCEDES-BENZ",
+      "price": 4550,
+      "Currency": "$",
+      "src": "https://i1.wp.com/rayhaber.com/wp-content/uploads/2021/11/mercedes-benz-kasim-kampanyalari.jpg?resize=678%2C381&ssl=1"
+    },
+    {
+      "id": 15,
+      "model": "RAV 4",
+      "wheel": "left",
+      "manufacturer": "TOYOTA",
+      "price": 2350,
+      "Currency": "$",
+      "src": "https://toyota-tegeta.ge/storage/3683/conversions/fortu-2-webp.webp"
+    },
+    {
+      "id": 16,
+      "model": "Mazda 3",
+      "wheel": "left",
+      "manufacturer": "MAZDA",
+      "price": 2300,
+      "Currency": "$",
+      "src": "https://static.my.ge/myauto/photos/7/9/8/0/0/large/57008973_3.jpg?v=1"
+    },
+    {
+      "id": 17,
+      "model": "Mazda 3",
+      "wheel": "left",
+      "manufacturer": "MAZDA",
+      "price": 2300,
+      "Currency": "$",
+      "src": "https://static.my.ge/myauto/photos/7/9/8/0/0/large/57008973_3.jpg?v=1"
+    }
+  ],
+  "basket": [
+    {
+      "id": 2,
+      "product": {
+        "id": 2,
+        "model": "CLS 550",
+        "wheel": "right",
+        "manufacturer": "MERCEDES-BENZ",
+        "price": 1000,
+        "Currency": "$",
+        "src": "https://i1.wp.com/rayhaber.com/wp-content/uploads/2021/11/mercedes-benz-kasim-kampanyalari.jpg?resize=678%2C381&ssl=1"
+      },
+      "count": 2
+    },
+    {
+      "id": 4,
+      "product": {
+        "id": 4,
+        "model": "RAV 4",
+        "wheel": "left",
+        "manufacturer": "TOYOTA",
+        "price": 1000,
+        "Currency": "$",
+        "src": "https://toyota-tegeta.ge/storage/3677/conversions/camry-png2-webp.webp"
+      },
+      "count": 1
+    },
+    {
+      "id": 10,
+      "product": {
+        "id": 10,
+        "model": "Mazda 3",
+        "wheel": "left",
+        "manufacturer": "MAZDA",
+        "price": 2540,
+        "Currency": "$",
+        "src": "https://wallpapersmug.com/large/37da88/mazda-off-road-5k.jpg"
+      },
+      "count": 1
+    }
+  ]
+}

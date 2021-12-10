@@ -1,0 +1,28 @@
+.registration-container {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  padding: 70px;
+  padding-top: 100px;
+  border-radius: 20px;
+  background-color: #e2d6c7;
+  box-shadow: 100px 36px 100px 58px rgba(0, 0, 0, 0.1), 27px 11px 15px -3px rgba(0, 0, 0, 0.1); }
+
+.myForm {
+  margin: 0 auto;
+  width: 70%; }
+
+.reg-title {
+  margin-top: -65px;
+  text-align: center;
+  margin-bottom: 50px; }
+
+.hidden {
+  display: none; }
+
+.signUp {
+  margin-top: 15px;
+  width: 20%;
+  margin-left: 40%;
+  display: block; }

@@ -1,0 +1,44 @@
+.filter {
+	margin-left: 20px;
+	margin-bottom: 7px;
+	display: flex;
+	width: 100%;
+	padding: 10px;
+	& > .byName > input {
+		margin-right: 20px;
+		border-radius: 10px;
+		padding: 7px;
+		outline: none;
+	}
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+	-moz-appearance: textfield;
+}
+#name-search {
+	margin-bottom: 1rem;
+}
+
+.price {
+	& > input {
+		border-radius: 7px;
+		padding: 7px;
+	}
+	& > button {
+		width: 50px;
+		border: none;
+		border-radius: 10px;
+		padding: 10px;
+		background-color: bisque;
+		transition: all 0.5s ease;
+	}
+	& > button:hover {
+		background-color: rgb(219, 171, 113);
+	}
+}

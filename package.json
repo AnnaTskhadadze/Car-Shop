@@ -1,0 +1,16 @@
+{
+  "name": "car-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -o public/css",
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "node-sass": "^7.0.0"
+  }
+}

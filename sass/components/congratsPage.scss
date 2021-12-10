@@ -1,0 +1,10 @@
+.congrImgDiv {
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 10%;
+	& > .congrImg {
+		width: 100%;
+		object-fit: cover;
+		/* transform: translate(25%, 50%); */
+	}
+}

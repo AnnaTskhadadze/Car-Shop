@@ -1,0 +1,95 @@
+.title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 35px;
+	@media (max-width: 875px) {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		height: auto;
+	}
+}
+
+.item {
+	font-size: 16px;
+	width: 300px;
+	height: 300px;
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 60px;
+	margin-bottom: 10px;
+	perspective: 1000px;
+	cursor: pointer;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	overflow: hidden;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background-color: rgb(236, 233, 218);
+	transition: all 0.2s ease-in;
+	justify-content: center;
+	&:hover {
+		box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.4);
+
+		transform: translateY(-5%);
+	}
+	& > .list-item-info {
+		height: 20rem;
+		width: 100%;
+		& > p {
+			margin-top: 5px;
+			text-align: center;
+			margin-bottom: 5px;
+		}
+		& > button {
+			display: block;
+			margin: 0 auto;
+			border: none;
+			padding: 12px;
+			border-radius: 20px;
+			margin-bottom: 20px;
+			background-color: rgb(104, 102, 92);
+			color: white;
+			transition: all 0.5s ease-in;
+		}
+		& > button:hover {
+			background-color: rgb(78, 72, 72);
+		}
+	}
+}
+
+.item-img {
+	& > img {
+		height: 12rem;
+		width: 100%;
+		object-fit: fit;
+	}
+}
+
+.tr-info { 
+	display: flex;
+	margin-left: 30px;
+	align-items: center;
+	margin-bottom: 20px;
+	& > div {
+		margin-left: 20px;
+		display: flex;
+		justify-content: space-around;
+		font-size: 17px;
+		align-items: center;
+		width: 30%;
+
+		& > button {
+			border: none;
+			padding: 12px;
+			border-radius: 10px;
+		}
+	}
+}
